@@ -1,2 +1,4 @@
 hello! git
 Gitの操作方法について学んでいきます
+aaaaa
+branch_bでの作業を終了しました
